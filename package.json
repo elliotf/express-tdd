@@ -1,0 +1,21 @@
+{
+  "name": "express-tdd"
+  , "description": "an attempt to learn how to TDD express"
+  , "version": "0.0.1"
+  , "author": "Elliot Foster <efoster@firetaco.com>"
+  , "dependencies": {
+    "mongoose": "*"
+  }
+  , "devDependencies": {
+    "mocha": "*"
+    , "should": "*"
+  }
+  , "keywords": ["tdd"]
+  , "repository": "git://github.com/elliotf/express-tdd"
+  , "scripts": {
+    "test": "make test"
+  }
+  , "engines": {
+    "node": "*"
+  }
+}
