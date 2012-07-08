@@ -1,5 +1,5 @@
 var Exam = require('models/exam');
-require('test_helpers');
+require('mocha-mongoose');
 
 describe("Models", function() {
   describe("Exam", function() {

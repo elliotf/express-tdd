@@ -1,5 +1,5 @@
 var User = require('models/user');
-require('test_helpers');
+require('mocha-mongoose');
 
 describe("Models", function() {
   describe("User", function() {

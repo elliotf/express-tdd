@@ -7,7 +7,8 @@
     "mongoose": "*"
   }
   , "devDependencies": {
-    "mocha": "*"
+    "mocha-mongoose": "*"
+    , "mocha": "*"
     , "should": "*"
   }
   , "keywords": ["tdd"]
